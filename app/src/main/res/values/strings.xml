@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tarea Activitys</string>
+    <string name="text_principal">Te damos la bienvenida a mi primera tarea en Android Studio</string>
+    <string name="btn_text1">Ingresar a: Text_Activity</string>
+    <string name="btn_tex2">Ingresar a: Button_Activity</string>
+    <string name="btn_text3">Ingresar a: Widgets_Activity</string>
+    <string name="him_textactvity">Por favor Ingresa un Mensaje:)</string>
+    <string name="btn_aceptar">Aceptar nuevo texto</string>
+    <string name="btn_Actualizar">Ingresar Mensaje y dar click en Aceptar</string>
+    <string name="btn_regreso">Retornar a la Pantalla Principal</string>
+    <string name="btn_material">Haz Click sobre MI</string>
+    <string name="checkbox_materiaI">Programacion II</string>
+    <string name="checkbox_materiaII">Calculo II</string>
+    <string name="checkbox_materiaIII">Fisica II</string>
+    <string name="btn_Verificar">Verificar Opcion Seleccionada</string>
+    <string name="btn_chip">CLICK MEEE ;)</string>
+</resources>
